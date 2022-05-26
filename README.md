@@ -5,7 +5,14 @@ This is my first attempt to create a Dashboard by using Plotly Dash. The data us
 
 Besides the data required I used the following libraries: [Pandas](https://pandas.pydata.org/),[Dash](https://plotly.com/dash/), and the Mapbox Density Heatmap from [Plotly](https://plotly.com/python/mapbox-density-heatmaps/). Also used [Jupyter Dash](https://github.com/plotly/jupyter-dash) to present the dash results by using the Jupyter Notebook.
 
-The result is the following as in the image, of course it is much better to use the interactivity of the dashboard, so in the direct future I will try to host it online (perhaps Heroku) so the result can be observed online. I used a radio selector and range slider selector to filter the data and provide interactivity for the dashboard. The radio selector selects the appropriate satellite data set. The range slider selects the range of years (or the specific year) the user would like to select to observe the fires burning in Greece for the specific set of years.  
+I used a radio selector and range slider selector to filter the data and provide interactivity for the dashboard. The radio selector selects the appropriate satellite data set. The range slider selects the range of years (or the specific year) the user would like to select to observe the fires burning in Greece for the specific set of years.
+
+I have also managed to deploy online the dashboard app via Heroku so that it is available for all to use in their browsers.
+
+Visit https://greek-forest-fires.herokuapp.com/  to use the interactive dashboard.
+
+Please provide comments and feedback.
+
+Last but not least I would like to thank [Konstantinos Kanaris](https://github.com/KostantinosKan) for helping me with the Heroku deployment.
 
 ![result](fires.png)
-
