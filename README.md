@@ -11,7 +11,7 @@ I have also managed to deploy online the dashboard app via Heroku so that it is 
 
 Visit https://greek-forest-fires.herokuapp.com/  to use the interactive dashboard.
 
-Please provide comments and feedback.
+Please provide comments and feedback. Also note that the Jupyter file and the Python file of the Dashboard are slightly different since the jupyter was used for development of the app locally and the python file for the deployment online.
 
 Last but not least I would like to thank [Konstantinos Kanaris](https://github.com/KostantinosKan) for helping me with the Heroku deployment.
 
